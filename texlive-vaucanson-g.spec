@@ -6,7 +6,7 @@
 # catalog-version 0.4
 Name:		texlive-vaucanson-g
 Version:	0.4
-Release:	9
+Release:	10
 Summary:	PSTricks macros for drawing automata
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/vaucanson-g
