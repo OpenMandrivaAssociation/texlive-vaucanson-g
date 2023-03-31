@@ -1,6 +1,6 @@
 Name:		texlive-vaucanson-g
 Version:	15878
-Release:	1
+Release:	2
 Summary:	PSTricks macros for drawing automata
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/vaucanson-g
